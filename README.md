@@ -1,2 +1,2 @@
-# PyanGame2
-Репозиторий игры с рабочим названием PyanGame2
+# Survansion
+Репозиторий игры Survansion
