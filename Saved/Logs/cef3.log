@@ -1,1 +1,12 @@
-[1102/230810.647:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[1104/191146.235:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Ключ не может быть использован в указанном состоянии. (0x8009000B)
+[1104/191146.235:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Ключ не может быть использован в указанном состоянии. (0x8009000B)
+[1104/191226.424:ERROR:backend_impl.cc(1438)] Unable to map Index file
+[1104/191226.425:ERROR:cache_util_win.cc(20)] Unable to move the cache: Отказано в доступе. (0x5)
+[1104/191226.425:ERROR:cache_util.cc(144)] Unable to move cache folder D:/GitHub/Survansion/Saved/webcache_4430\Cache to D:/GitHub/Survansion/Saved/webcache_4430\old_Cache_000
+[1104/191226.430:ERROR:disk_cache.cc(184)] Unable to create cache
+[1104/191237.616:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1104/191245.262:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 3
+[1104/191245.262:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 5
+[1104/191245.262:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 7
+[1104/191347.180:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[1104/191347.180:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
