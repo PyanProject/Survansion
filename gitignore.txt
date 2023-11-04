@@ -74,7 +74,4 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 #Megascans
-Content/Megascans/*
-
-#MetaHumans
-Content/MetaHumans/*
+Megascans/*
