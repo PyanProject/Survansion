@@ -1,1 +1,24 @@
-[1028/171010.329:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[1111/201025.958:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Ключ не может быть использован в указанном состоянии. (0x8009000B)
+[1111/201126.960:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[1111/201148.218:ERROR:entry_impl.cc(1075)] No file for 800001b8
+[1111/201148.225:ERROR:entry_impl.cc(1075)] No file for 800001ac
+[1111/201148.225:ERROR:entry_impl.cc(1075)] No file for 800001ab
+[1111/201148.225:ERROR:entry_impl.cc(1075)] No file for 800001ad
+[1111/201148.226:ERROR:entry_impl.cc(1075)] No file for 800001b1
+[1111/201148.377:ERROR:entry_impl.cc(1075)] No file for 800001af
+[1111/201148.378:ERROR:entry_impl.cc(1075)] No file for 800001b2
+[1111/201148.378:ERROR:entry_impl.cc(1075)] No file for 800001b0
+[1111/201148.386:ERROR:entry_impl.cc(1075)] No file for 800001b3
+[1111/201148.386:ERROR:entry_impl.cc(1075)] No file for 800001ae
+[1111/201150.229:ERROR:entry_impl.cc(1075)] No file for 800001b4
+[1111/201150.231:ERROR:entry_impl.cc(1075)] No file for 800001b5
+[1111/201150.231:ERROR:entry_impl.cc(1075)] No file for 800001ba
+[1111/201150.234:ERROR:entry_impl.cc(1075)] No file for 800001bb
+[1111/201150.234:ERROR:entry_impl.cc(1075)] No file for 800001bc
+[1111/201150.245:ERROR:entry_impl.cc(1075)] No file for 800001bd
+[1111/201150.247:ERROR:entry_impl.cc(1075)] No file for 800001be
+[1111/201150.470:ERROR:entry_impl.cc(1075)] No file for 8000004e
+[1111/201150.745:ERROR:entry_impl.cc(1075)] No file for 800001a6
+[1111/201150.745:ERROR:entry_impl.cc(1075)] No file for 8000004d
+[1111/201150.747:ERROR:entry_impl.cc(1075)] No file for 8000004c
+[1111/201227.289:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
