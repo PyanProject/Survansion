@@ -1,2 +1,2 @@
 # :smiling_imp: ___SURVANSION___ :smiling_imp:
-_powered by ___jorysync___ _
+_powered_ _by_ ___jorysync___
