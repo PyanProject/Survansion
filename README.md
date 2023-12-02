@@ -1,2 +1,2 @@
-# PyanGame2
-Репозиторий игры с рабочим названием PyanGame2
+# :smiling_imp: ___SURVANSION___
+_powered by ___jorysync___ 
