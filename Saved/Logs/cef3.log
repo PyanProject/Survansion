@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [1208/174228.454:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Êëş÷ íå ìîæåò áûòü èñïîëüçîâàí â óêàçàííîì ñîñòîÿíèè. (0x8009000B)
 [1208/174435.682:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
 [1208/220014.586:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
@@ -18,3 +19,7 @@
 [1208/220029.031:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
 [1208/220029.593:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
 [1208/220029.639:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+=======
+[1210/192043.344:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[1210/192239.875:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+>>>>>>> keus
