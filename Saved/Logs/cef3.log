@@ -1,2 +1,20 @@
-[1207/235135.544:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[1207/235317.026:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[1208/174228.454:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Ключ не может быть использован в указанном состоянии. (0x8009000B)
+[1208/174435.682:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[1208/220014.586:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1208/220014.619:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1208/220019.006:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1208/220019.010:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1208/220019.589:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1208/220019.623:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1208/220023.747:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1208/220023.754:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1208/220024.013:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1208/220024.023:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1208/220024.592:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1208/220024.626:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1208/220028.750:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1208/220028.759:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1208/220029.017:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1208/220029.031:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1208/220029.593:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[1208/220029.639:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
