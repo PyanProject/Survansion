@@ -1,18 +1,1 @@
-[0117/181445.877:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Ключ не может быть использован в указанном состоянии. (0x8009000B)
-[0117/181451.809:ERROR:backend_impl.cc(1041)] Critical error found -8
-[0117/181451.816:ERROR:entry_impl.cc(1075)] No file for c103001c
-[0117/181451.817:WARNING:storage_block-inl.h(146)] Failed data load.
-[0117/181451.817:WARNING:storage_block-inl.h(146)] Failed data load.
-[0117/181451.817:WARNING:storage_block-inl.h(146)] Failed data load.
-[0117/181451.817:WARNING:storage_block-inl.h(146)] Failed data load.
-[0117/181451.817:ERROR:entry_impl.cc(1075)] No file for c103001a
-[0117/181451.817:WARNING:storage_block-inl.h(146)] Failed data load.
-[0117/181451.817:WARNING:storage_block-inl.h(146)] Failed data load.
-[0117/181451.817:WARNING:storage_block-inl.h(146)] Failed data load.
-[0117/181451.817:WARNING:storage_block-inl.h(146)] Failed data load.
-[0117/181451.817:ERROR:entry_impl.cc(1075)] No file for c1030018
-[0117/181451.823:WARNING:storage_block-inl.h(146)] Failed data load.
-[0117/181451.823:WARNING:storage_block-inl.h(146)] Failed data load.
-[0117/181451.847:WARNING:storage_block-inl.h(146)] Failed data load.
-[0117/181513.826:WARNING:sqlite_persistent_store_backend_base.cc(171)] Failed to post task from FlushAndNotifyInBackground@../../net/extras/sqlite/sqlite_persistent_store_backend_base.cc:220 to client_task_runner_.
-[0117/181513.826:WARNING:sqlite_persistent_store_backend_base.cc(171)] Failed to post task from FlushAndNotifyInBackground@../../net/extras/sqlite/sqlite_persistent_store_backend_base.cc:220 to client_task_runner_.
+[0117/182036.025:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
