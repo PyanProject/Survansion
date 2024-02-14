@@ -1,1 +1,32 @@
-[0214/013227.401:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0214/035732.451:WARNING:backend_impl.cc(1837)] Destroying invalid entry.
+[0214/035732.476:ERROR:backend_impl.cc(1041)] Critical error found -8
+[0214/035732.504:WARNING:storage_block-inl.h(146)] Failed data load.
+[0214/035732.504:WARNING:storage_block-inl.h(146)] Failed data load.
+[0214/035732.504:ERROR:entry_impl.cc(1075)] No file for c10300f0
+[0214/035732.504:WARNING:storage_block-inl.h(146)] Failed data load.
+[0214/035732.504:WARNING:storage_block-inl.h(146)] Failed data load.
+[0214/035732.504:WARNING:storage_block-inl.h(146)] Failed data load.
+[0214/035732.504:WARNING:storage_block-inl.h(146)] Failed data load.
+[0214/035732.504:ERROR:entry_impl.cc(1075)] No file for c10300d2
+[0214/035732.504:WARNING:storage_block-inl.h(146)] Failed data load.
+[0214/035732.505:WARNING:storage_block-inl.h(146)] Failed data load.
+[0214/035732.505:WARNING:storage_block-inl.h(146)] Failed data load.
+[0214/035732.505:WARNING:storage_block-inl.h(146)] Failed data load.
+[0214/035732.505:ERROR:entry_impl.cc(1075)] No file for c10300cc
+[0214/035732.505:WARNING:storage_block-inl.h(146)] Failed data load.
+[0214/035732.505:WARNING:storage_block-inl.h(146)] Failed data load.
+[0214/035732.505:WARNING:storage_block-inl.h(146)] Failed data load.
+[0214/035732.505:WARNING:storage_block-inl.h(146)] Failed data load.
+[0214/035732.505:ERROR:entry_impl.cc(1075)] No file for c1030014
+[0214/035732.505:WARNING:storage_block-inl.h(146)] Failed data load.
+[0214/035732.505:WARNING:storage_block-inl.h(146)] Failed data load.
+[0214/035732.505:WARNING:storage_block-inl.h(146)] Failed data load.
+[0214/035732.505:WARNING:storage_block-inl.h(146)] Failed data load.
+[0214/035732.505:ERROR:entry_impl.cc(1075)] No file for c103000a
+[0214/035732.506:WARNING:storage_block-inl.h(146)] Failed data load.
+[0214/035732.528:WARNING:storage_block-inl.h(146)] Failed data load.
+[0214/035732.532:WARNING:storage_block-inl.h(146)] Failed data load.
+[0214/035732.532:WARNING:storage_block-inl.h(146)] Failed data load.
+[0214/035732.533:WARNING:storage_block-inl.h(146)] Failed data load.
+[0214/035737.696:ERROR:entry_impl.cc(998)] Failed to save user data
+[0214/035925.893:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
