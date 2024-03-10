@@ -1,9 +1,1 @@
-[0302/131441.297:WARNING:backend_impl.cc(1837)] Destroying invalid entry.
-[0302/131441.305:ERROR:backend_impl.cc(1041)] Critical error found -8
-[0302/131442.235:WARNING:storage_block-inl.h(146)] Failed data load.
-[0302/131442.235:WARNING:storage_block-inl.h(146)] Failed data load.
-[0302/131442.235:WARNING:storage_block-inl.h(146)] Failed data load.
-[0302/131442.237:WARNING:storage_block-inl.h(146)] Failed data load.
-[0302/131442.252:ERROR:entry_impl.cc(998)] Failed to save user data
-[0302/131442.252:ERROR:entry_impl.cc(998)] Failed to save user data
-[0302/131628.003:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0305/192421.389:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
